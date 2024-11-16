@@ -1,2 +1,2 @@
 # poop-server
-how to create the poop shoot
+shi for my server/lab
