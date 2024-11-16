@@ -1,2 +1,2 @@
 # poop-server
-shi for my server/lab
+shi for my server/workstation
